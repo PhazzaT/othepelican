@@ -1,0 +1,21 @@
+div#arena {
+    color: #CCCCCC;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 27px;
+}
+
+div#arena, textarea {
+    min-width: 80%;
+    min-height: 200px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+div.not-found {
+    background-color: #ff7777;
+}
+
+div#arena span {
+    color: black;
+}
